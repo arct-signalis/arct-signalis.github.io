@@ -1,7 +1,7 @@
 { 
   "title": "Koncept", 
   "description": "Koncepty pre projekt SIGNALIS", 
-  "url": "https://www.fiit.stuba.sk/", 
+  "url": "https://github.com/06-STH-Projects", 
   "topics": [],
   "date": "1-10-2025"
 } 

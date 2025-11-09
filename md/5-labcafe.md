@@ -1,7 +1,7 @@
 { 
   "title": "Návšteva Labcafe", 
   "description": "8-10-2025", 
-  "url": "https://www.fiit.stuba.sk/", 
+  "url": "https://github.com/06-STH-Projects", 
   "topics": [],
   "date": "8-10-2025"
 } 

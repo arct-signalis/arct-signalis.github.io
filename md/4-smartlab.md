@@ -1,7 +1,7 @@
 { 
   "title": "Návšteva Smartlab", 
   "description": "1-10-2025", 
-  "url": "https://www.fiit.stuba.sk/", 
+  "url": "https://github.com/06-STH-Projects", 
   "topics": [],
   "date": "1-10-2025"
 } 

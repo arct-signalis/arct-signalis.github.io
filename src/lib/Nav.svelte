@@ -46,5 +46,10 @@
     >
       Linkedin</a
     >
+
+    <a 
+      href="https://www.patreon.com/c/arct25" 
+      class="flex items-center py-4 font-medium text-accent hover:underline underline-offset-4">
+      Patreon</a>
   </div>
 </nav>

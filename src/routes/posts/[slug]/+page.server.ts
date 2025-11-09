@@ -30,15 +30,16 @@ export const load: PageServerLoad = async ({ params }) => {
     'hr': 'border-text/10',
     'th': 'py-2 px-2 border text-accent border-text/10',
     'td': 'py-2 px-2 border border-text/10',
-    'table': 'w-full border border-text/10 rounded-xl'
+    'table': 'w-full border border-text/10 rounded-xl',
+    'video': 'rounded-md mb-5 border border-black/20 max-w-md'
   }
 
   let html = engine.render(content)
 
   for (const tag in classes) {
     html = html.replaceAll(
-      `<${tag}${['a', 'img'].includes(tag) ? '' : '>'}`, 
-      `<${tag} class="${classes[tag as keyof typeof classes]}"${['a', 'img'].includes(tag) ? '' : '>'}`
+      `<${tag}${['a', 'img', 'video'].includes(tag) ? '' : '>'}`, 
+      `<${tag} class="${classes[tag as keyof typeof classes]}"${['a', 'img', 'video'].includes(tag) ? '' : '>'}`
     )
   }
 
