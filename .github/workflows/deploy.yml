@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: 'main'
+    branches: "main"
 
 jobs:
   build_site:
@@ -26,10 +26,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: build
-        env:
-          BASE_PATH: '/${{ github.event.repository.name }}'
+      - name: Build site
         run: |
+          export BASE_PATH="/${{ github.event.repository.name }}"
+          echo "Building for BASE_PATH=$BASE_PATH"
           npm run build
 
       - name: Upload Artifacts
