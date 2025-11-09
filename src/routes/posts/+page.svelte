@@ -19,7 +19,7 @@
     >
       <h1 class="text-xl text-accent">{post.meta.title}</h1>
       {#if post.meta.description}
-        <h1 class="font-medium text-sm text-primary/90 whitespace-pre">
+        <h1 class="font-medium text-sm text-primary/80 whitespace-pre">
           {post.meta.description}
         </h1>
       {/if}
