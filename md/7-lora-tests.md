@@ -1,6 +1,6 @@
 { 
   "title": "Testovanie LORA modulov", 
-  "description": "5-11-2025", 
+  "description": "3-11-2025", 
   "url": "https://github.com/06-STH-Projects", 
   "topics": [],
   "date": "5-11-2025"
