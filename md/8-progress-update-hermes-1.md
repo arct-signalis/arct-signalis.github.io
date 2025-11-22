@@ -1,6 +1,6 @@
 { 
   "title": "HERMES progress update 1", 
-  "description": "Progress update 1 pre HERMES komponent", 
+  "description": "12-11-2025", 
   "url": "https://www.fiit.stuba.sk/", 
   "topics": [],
   "date": "12-11-2025"
