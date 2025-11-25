@@ -1,11 +1,12 @@
 {
-"title": "ARCT-SIGNALIS dashboard (V1)",
-"description": "Webové UI a dátový rámec pre vizualizáciu prijímanej telemtrie",
-"url": "https://www.fiit.stuba.sk/
-",
-"topics": [],
-"date": "25-11-2025"
+    "title": "ARCT-SIGNALIS dashboard (V1)",
+    "description": "Webové UI a dátový rámec pre vizualizáciu prijímanej telemtrie",
+    "url": "https://www.fiit.stuba.sk/",
+    "topics": [],
+    "date": "25-11-2025"
 }
+
+%%%
 
 # Webový dashboard pre telemetriu
 
