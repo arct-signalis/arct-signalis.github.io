@@ -1,6 +1,6 @@
 {
-    "title": "ARCT-SIGNALIS dashboard (V1)",
-    "description": "Webové UI a dátový rámec pre vizualizáciu prijímanej telemtrie",
+    "title": "HERMES progress update 4",
+    "description": "25-11-2025",
     "url": "https://www.fiit.stuba.sk/",
     "topics": [],
     "date": "25-11-2025"
