@@ -71,6 +71,11 @@ datalogger **IRIS** a pozemnú stanicu **HERMES**.
 - Finálna optimalizácia rozloženia komponentov
 - Objednávka profesionálnej výroby PCB
 
+#### Iterácia 3 - Update
+
+![](/report-images/project-summary/IMG_4052.jpg)
+![](/report-images/project-summary/IMG_4053.jpg)
+
 ### 3. HERMES - 3D dizajn
 
 #### Prvotný návrh (v1)
