@@ -53,3 +53,8 @@
       {/each}
   </div>
 </section>
+
+<img 
+  src="/report-images/meeting/IMG_4229.jpeg"
+  class="w-full h-full object-contain"
+  alt="Team meeting discussion">

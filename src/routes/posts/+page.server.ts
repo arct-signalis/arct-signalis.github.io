@@ -25,7 +25,7 @@ export const load: PageServerLoad = async ({ params }) => {
         return new Date(+year, +month, +day)
       }
       
-      return toDate(a.meta.date) < toDate(b.meta.date) ? -1 : 1
+      return toDate(a.meta.date) > toDate(b.meta.date) ? -1 : 1
     })
 
   return {
