@@ -2,7 +2,7 @@
   "title": "Inšpiratívne stretnutie s expertkou", 
   "description": "10-12-2025", 
   "url": "https://www.fiit.stuba.sk/", 
-  "topics": ["konzultácia", "SIGNALIS", "telemetria", "rakety", "networking"],
+  "topics": [],
   "date": "10-12-2025"
 } 
 
