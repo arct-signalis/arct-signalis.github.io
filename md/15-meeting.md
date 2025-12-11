@@ -8,7 +8,9 @@
 
 %%%
 
-# Inšpiratívne stretnutie s expertkou 🚀
+
+
+# Inšpiratívne stretnutie s expertkou
 
 Dnes sme mali česť stretnúť sa s Emou, ktorá je pre nás obrovskou inšpiráciou! 💡
 
