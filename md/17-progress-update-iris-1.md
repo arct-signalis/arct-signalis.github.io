@@ -1,5 +1,5 @@
 { 
-  "title": "IRIS progress update 1", 
+  "title": "IRIS Progress Update 1", 
   "description": "29-12-2025", 
   "url": "https://www.fiit.stuba.sk/", 
   "topics": [],
