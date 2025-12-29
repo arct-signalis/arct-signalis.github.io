@@ -44,7 +44,7 @@ Pred odoslaním dosiek do výroby boli najprv u nás doma vyfrézované ich tvar
 
 ![](/report-images/prog-update1-iris/stacked2.png)
 
-V princípe tento koncept fungoval výborne, avšak problém nastal pri použití SMA konektora, kvôli ktorému sa zostava už nezmestila do definovaných rozmerov 😭. Ako môžeme vidieť, bez samotného SMA konektora sa tieto dosky do tela rakety zmestia perfektne:
+V princípe tento koncept fungoval výborne, avšak problém nastal pri použití SMA konektora, kvôli ktorému sa zostava už nezmestila do definovaných rozmerov. Ako môžeme vidieť, bez samotného SMA konektora sa tieto dosky do tela rakety zmestia perfektne:
 
 ![](/report-images/prog-update1-iris/fit.png)
 
