@@ -9,7 +9,7 @@
 %%%
 
 # Enterprise Architect
-                      </br>
+                      
 ## Modelovanie projektu Signalis
 
 Počas tohto semestra sa nám podarilo navrhovať diagramy nie len na papier, ale aj v rámci nástroja Enterprise Architect, čo nám uľahčilo prácu pri vyvíjaní softwareu a zjednodušilo dokumentáciu. 
