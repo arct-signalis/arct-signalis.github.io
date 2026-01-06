@@ -1,9 +1,9 @@
 { 
   "title": "Enterprise Architect", 
-  "description": "6-1-2026", 
+  "description": "06-01-2026", 
   "url": "https://www.fiit.stuba.sk/", 
   "topics": [],
-  "date": "6-1-2026"
+  "date": "06-01-2026"
 } 
 
 %%%
