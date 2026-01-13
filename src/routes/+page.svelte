@@ -55,7 +55,7 @@
   <hr class="border-text/10" />
 
   <p class="text-text">
-    Pre detailne stránky o členoch kliknite ich profilové fotky
+    Pre dodatočné informácie o členoch (About me) kliknite na ich profilové fotky.
   </p>
   <div
     class="grid grid-cols-2 sm:grid-cols-4 gap-1 rounded-2xl overflow-hidden shadow-xl"
