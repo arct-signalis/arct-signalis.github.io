@@ -1,20 +1,20 @@
 <script lang="ts">
   const members = [
-    [
-      'Adam Hladík',
-      'ah',
-      'https://avatars.githubusercontent.com/u/57076047?v=4',
-    ],
     ['UR', 'ru', 'https://avatars.githubusercontent.com/u/71756887?v=4'],
+    [
+      'Ján Sližik',
+      'js',
+      'https://avatars.githubusercontent.com/u/71568783?v=4',
+    ],
     [
       'Dominik Mifkovič',
       'dm',
       'https://avatars.githubusercontent.com/u/71759745?v=4',
     ],
     [
-      'Ján Sližik',
-      'js',
-      'https://avatars.githubusercontent.com/u/71568783?v=4',
+      'Adam Hladík',
+      'ah',
+      'https://avatars.githubusercontent.com/u/57076047?v=4',
     ],
   ]
 </script>
@@ -54,13 +54,16 @@
 
   <hr class="border-text/10" />
 
+  <p class="text-text">
+    Pre detailne stránky o členoch kliknite ich profilové fotky
+  </p>
   <div
-    class="grid grid-cols-2 sm:grid-cols-4 gap-2 rounded-2xl overflow-hidden shadow-xl"
+    class="grid grid-cols-2 sm:grid-cols-4 gap-1 rounded-2xl overflow-hidden shadow-xl"
   >
     {#each members as [name, slug, picture]}
       <a
         href={'/members/' + slug}
-        class="relative aspect-square bg-text/5 overflow-hidden"
+        class="relative aspect-square bg-text/5 overflow-hidden hover:opacity-50"
       >
         <img
           src={picture}
@@ -80,6 +83,6 @@
 
 <img
   src="/report-images/meeting/IMG_4229.jpeg"
-  class="w-full h-full object-contain"
+  class="w-full h-full object-contain rounded-2xl"
   alt="Team meeting discussion"
 />

@@ -15,11 +15,11 @@
   {#each data.posts as post}
     <a
       href={resolve(`/posts/${post.slug}`)}
-      class="space-y-3 flex flex-col rounded-lg py-5 px-5 border-2 border-transparent bg-primary/5 hover:border-accent hover:bg-primary/10"
+      class="space-y-3 flex flex-col rounded-lg py-5 px-5 border-2 border-transparent bg-accent/10 hover:border-accent hover:bg-primary/10"
     >
       <h1 class="text-xl text-accent">{post.meta.title}</h1>
       {#if post.meta.description}
-        <h1 class="font-medium text-sm text-primary/80 whitespace-pre">
+        <h1 class="font-medium text-sm text-accent/50 whitespace-pre">
           {post.meta.description}
         </h1>
       {/if}
