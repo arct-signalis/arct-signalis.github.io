@@ -1,13 +1,13 @@
 <script>
   import '../app.css'
-  import Nav from "$lib/Nav.svelte"
+  import Nav from '$lib/Nav.svelte'
   import Spaceship from '$lib/Spaceship.svelte'
 </script>
 
-<div class="min-h-screen pb-24 bg-background">
+<div class="min-h-screen pb-24">
   <main class="max-w-2xl mx-auto pb-7">
     <Nav />
-  
+
     <div class="px-3 py-4 space-y-6">
       <slot />
     </div>
